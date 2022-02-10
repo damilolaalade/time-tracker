@@ -1,4 +1,4 @@
-# Frontend Mentor - Time tracking dashboard
+ <div align="center">Frontend Mentor - Time tracking dashboard</div>
 
 
 <!-- Please update value in the {}  -->
