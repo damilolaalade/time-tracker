@@ -20,7 +20,8 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
+- React Js
+- Javscript
 - Css3
 
 ## Features
